@@ -1,0 +1,15 @@
+streamlit 
+scrapegraphai
+ultralytics
+streamlit
+google-generativeai
+requests
+beautifulsoup4
+Pillow
+opencv-python
+matplotlib
+yolov5
+sentence-transformers
+faiss-cpu
+qdrant-client
+# Add other dependencies as needed
