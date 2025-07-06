@@ -24,8 +24,8 @@ Extract and summarize website content and images using Google Gemini, Retrieval-
 ---
 
 ## 🏗️ Directory Structure
-
-your_project/
+```
+web_scraper/
 ├── ai_scraper.py # Main Streamlit app
 ├── requirements.txt # Python dependencies
 ├── assets/
@@ -35,7 +35,7 @@ your_project/
 ├── multimodal_extractor.py # Text & image extraction
 ├── rag_integration.py # RAG logic (embeddings, retrieval)
 └── explainability.py # Explainability functions
-
+```
 ---
 
 ## ⚡ Quickstart (Local Setup)
